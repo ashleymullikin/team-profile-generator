@@ -24,3 +24,6 @@ Github link: https://github.com/ashleymullikin/team-profile-generator
 
 Html: file:///C:/Users/themu/Downloads/Team%20Profile.html
 
+Link to example video:
+https://drive.google.com/file/d/1q_mzqt7KlFf185MER0SGS6pddXpJTxzQ/view
+

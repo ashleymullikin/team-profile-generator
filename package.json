@@ -7,16 +7,14 @@
       "lib": "lib"
     },
     "scripts": {
-      "test": "jest"
+      "test": "jest",
+      "start": "node index.js"
     },
     "repository": {
       "type": "git",
       "url": "git+https://github.com/ashleymullikin/team-profile-generator.git"
     },
     "author": "Ashley Mullikin",
-    // "bugs": {
-    //   "url": "https://github.com/nicolewallace09/team-profile-generator/issues"
-    // },
     "homepage": "https://github.com/ashleymullikin/team-profile-generator/blob/main/README.md",
     "devDependencies": {
       "jest": "^26.0.1"
